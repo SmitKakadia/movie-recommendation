@@ -1,0 +1,27 @@
+# Python-related
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual Environment
+.venv/
+env/
+venv/
+*.env
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+
+# Large Files / Logs
+*.log
+*.pkl
+similarity.pkl
+
+# OS-specific
+.DS_Store
+Thumbs.db
